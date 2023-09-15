@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewsCheck/static/css/main.6f0bcea6.css",
+    "main.js": "/NewsCheck/static/js/main.dbcb5d94.js",
+    "index.html": "/NewsCheck/index.html",
+    "main.6f0bcea6.css.map": "/NewsCheck/static/css/main.6f0bcea6.css.map",
+    "main.dbcb5d94.js.map": "/NewsCheck/static/js/main.dbcb5d94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0bcea6.css",
+    "static/js/main.dbcb5d94.js"
+  ]
+}
